@@ -101,4 +101,5 @@ If you have questions regarding this Privacy Policy, please contact us:
 *   **Developer:** ARH Community
 *   **Email:** [1renwart1@gmail.com](mailto:1renwart1@gmail.com)
 *   **Address:** Jakarta, Indonesia
+*   **Privacy Policy URL:** [https://github.com/1renwart1-byte/AR-Clean/blob/main/PRIVACY_POLICY.md](https://github.com/1renwart1-byte/AR-Clean/blob/main/PRIVACY_POLICY.md)
 *   **Project URL:** [https://github.com/1renwart1-byte/AR-Clean](https://github.com/1renwart1-byte/AR-Clean)
